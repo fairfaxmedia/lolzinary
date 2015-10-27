@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'lolzinary'
+
+gem = Lolzinary.new
+gem.install
