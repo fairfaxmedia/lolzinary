@@ -2,5 +2,4 @@
 
 require 'lolzinary'
 
-gem = Lolzinary.new
-gem.install
+Lolzinary.install
