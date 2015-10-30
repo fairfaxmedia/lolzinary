@@ -26,6 +26,6 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency "cloudinary", "~> 1.1"
   spec.add_runtime_dependency "lolcommits", "~> 0.6.1"
-  spec.add_runtime_dependency "activesupport", "~> 4.2", ">= 4.2.4"
+  spec.add_runtime_dependency "activesupport"
 
 end
