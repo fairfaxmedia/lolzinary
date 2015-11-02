@@ -1,5 +1,4 @@
 require "lolzinary/version"
-require 'pry'
 
 module Lolzinary
   def self.install
